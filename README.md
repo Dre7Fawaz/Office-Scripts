@@ -14,15 +14,6 @@ Automates GST Summary MIS report preparation from Excel data, reducing manual re
 ###  GST Workings Automation
 Automates GST calculations, validations, and repetitive Excel processes to improve reporting accuracy.
 
-###  Inventory Automation *(Coming Soon)*
-Office Scripts for stock movement, inventory reconciliation, and inventory reporting.
-
-###  Logistics MIS Automation *(Coming Soon)*
-Automation tools for warehouse operations, logistics reporting, dispatch tracking, and operational MIS.
-
-###  Excel Report Automation *(Coming Soon)*
-General-purpose Office Scripts for report generation, data cleaning, formatting, and dashboard preparation.
-
 ---
 
 ##  Technologies Used
