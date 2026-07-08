@@ -1,50 +1,65 @@
-Excel Office Scripts
+# Microsoft Excel Office Scripts Portfolio
 
-A collection of Microsoft Excel Office Scripts developed to automate business processes in Accounts, GST, MIS Reporting, and future Logistics & Warehouse operations.
+A collection of Microsoft Excel Office Scripts developed to automate real-world business processes in Accounts, GST Compliance, MIS Reporting, Inventory Management, and Logistics operations.
 
----
-
-📂 Projects
-
-GST Summary MIS Automation
-Automates GST Summary MIS report preparation from Excel data.
-
-GST Workings Automation
-Automates GST workings and repetitive calculations to reduce manual effort.
-
-Inventory Automation (Coming Soon)
-Office Scripts for inventory management and stock reporting.
-
-Logistics MIS Automation (Coming Soon)
-Automation projects for warehouse operations, inventory tracking, and Logistics MIS reporting.
-
-Excel Report Automation (Coming Soon)
-General-purpose Excel automation for business reporting and data processing.
+The objective of these projects is to reduce manual work, improve reporting accuracy, and increase productivity through Excel automation.
 
 ---
 
-Technologies
+##  Projects
+
+###  GST Summary MIS Automation
+Automates GST Summary MIS report preparation from Excel data, reducing manual reconciliation and reporting time.
+
+###  GST Workings Automation
+Automates GST calculations, validations, and repetitive Excel processes to improve reporting accuracy.
+
+###  Inventory Automation *(Coming Soon)*
+Office Scripts for stock movement, inventory reconciliation, and inventory reporting.
+
+###  Logistics MIS Automation *(Coming Soon)*
+Automation tools for warehouse operations, logistics reporting, dispatch tracking, and operational MIS.
+
+###  Excel Report Automation *(Coming Soon)*
+General-purpose Office Scripts for report generation, data cleaning, formatting, and dashboard preparation.
+
+---
+
+##  Technologies Used
 
 - Microsoft Excel
 - Office Scripts
 - TypeScript
 - Power Query
+- Pivot Tables
 - Tally Prime
 - Data Automation
+- MIS Reporting
 
 ---
 
-Objective
+##  Objective
 
-This repository demonstrates practical Office Script automation projects developed for real business scenarios, helping reduce manual work, improve reporting accuracy, and increase productivity.
+This repository showcases practical Office Script automation projects inspired by real business workflows in Accounts, GST, MIS Reporting, Inventory Management, and Logistics.
 
-The projects in this repository are built as part of my continuous learning journey in Excel Automation, MIS Reporting, and Logistics MIS.
+These projects are part of my continuous learning journey in Excel Automation and Logistics MIS.
 
 ---
 
-Author
+##  Roadmap
+
+-  GST Summary Automation
+-  GST Workings Automation
+-  Inventory Automation
+-  Logistics MIS Dashboard
+-  Warehouse Reporting Automation
+-  Transport MIS Automation
+-  Excel Dashboard Automation
+
+---
+
+##  Author
 
 **Mohamed Fawaz**
 
-MIS & Accounts Executive  
-Excel Automation | Office Scripts | Tally Prime | Power Query | Logistics MIS Learner
+**MIS Executive | Excel Automation | Office Scripts | Tally Prime | Power Query | Logistics MIS**
