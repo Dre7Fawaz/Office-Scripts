@@ -1,6 +1,7 @@
 # Microsoft Excel Office Scripts Portfolio
 
-A collection of Microsoft Excel Office Scripts developed to automate real-world business processes in Accounts, GST Compliance, MIS Reporting, Inventory Management, and Logistics operations.
+A collection of Microsoft Excel Office Scripts developed to automate business processes in Accounts, GST Compliance, and MIS Reporting.
+The projects demonstrate practical Excel automation to reduce manual work, improve reporting accuracy, and increase productivity.
 
 The objective of these projects is to reduce manual work, improve reporting accuracy, and increase productivity through Excel automation.
 
@@ -20,7 +21,6 @@ Automates GST calculations, validations, and repetitive Excel processes to impro
 
 - Microsoft Excel
 - Office Scripts
-- TypeScript
 - Basic Power Query
 - Pivot Tables
 - Tally Prime
@@ -33,7 +33,7 @@ Automates GST calculations, validations, and repetitive Excel processes to impro
 
 This repository showcases practical Office Script automation projects inspired by real business workflows in Accounts, GST and MIS Reporting
 
-These projects are part of my continuous learning journey in Excel Automation and Logistics MIS.
+These projects are part of my continuous learning journey in Excel Automation.
 
 ---
 
