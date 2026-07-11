@@ -1,7 +1,7 @@
 # Microsoft Excel Office Scripts Portfolio
 
-A collection of Microsoft Excel Office Scripts developed to automate business processes in Accounts, GST Compliance, and MIS Reporting.
-The projects demonstrate practical Excel automation to reduce manual work, improve reporting accuracy, and increase productivity.
+A collection of Microsoft Excel Office Scripts developed to automate real-world business processes in Accounts, GST Compliance, and MIS Reporting.
+These projects demonstrate practical Office Script automation to reduce manual work, improve reporting accuracy, and increase productivity.
 
 The objective of these projects is to reduce manual work, improve reporting accuracy, and increase productivity through Excel automation.
 
