@@ -21,7 +21,7 @@ Automates GST calculations, validations, and repetitive Excel processes to impro
 - Microsoft Excel
 - Office Scripts
 - TypeScript
-- Power Query
+- Basic Power Query
 - Pivot Tables
 - Tally Prime
 - Data Automation
@@ -31,21 +31,11 @@ Automates GST calculations, validations, and repetitive Excel processes to impro
 
 ##  Objective
 
-This repository showcases practical Office Script automation projects inspired by real business workflows in Accounts, GST, MIS Reporting, Inventory Management, and Logistics.
+This repository showcases practical Office Script automation projects inspired by real business workflows in Accounts, GST and MIS Reporting
 
 These projects are part of my continuous learning journey in Excel Automation and Logistics MIS.
 
 ---
-
-##  Roadmap
-
--  GST Summary Automation
--  GST Workings Automation
--  Inventory Automation
--  Logistics MIS Dashboard
--  Warehouse Reporting Automation
--  Transport MIS Automation
--  Excel Dashboard Automation
 
 ---
 
@@ -53,4 +43,4 @@ These projects are part of my continuous learning journey in Excel Automation an
 
 **Mohamed Fawaz**
 
-**MIS Executive | Excel Automation | Office Scripts | Tally Prime | Power Query | Logistics MIS**
+**MIS Executive | Excel Automation | Office Scripts | Tally Prime | Basic Power Query | Logistics MIS**
